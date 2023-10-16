@@ -10,7 +10,7 @@ The article -
 
 ![Markdown logo](https://images.pexels.com/photos/636243/pexels-photo-636243.jpeg)
 
-Letting go of fear and remaining persistence in completing this cohort despite any difficulty or learning curves ahead - Everyday is fresh start. 
+Letting go of fear and remaining persistent in completing this cohort despite any difficulty or learning curves ahead - Everyday is fresh start. 
 
 
 
