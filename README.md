@@ -1,5 +1,5 @@
 # Jasmine J. 
-## Military Veteran currently serving a BA role within the Software Industry. 
+## Military Veteran with 9+ years of management experience in the United States Army and the Private Sector. Accomplished measurable results while leading teams of 83 in a dynamic, fast -paced environment and retains a comprehensive background in Process Improvement and Organizational Development. Possess extensive knowledge in Quality Assurance and Control, Operational Reports and Property Accountability. Currently serving various roles within the software industry where I am seeking to enhance my technical skills such as Python, SQL, and Tableau to better serve senior leadership and clients with solving business problems by use of data visualization. 
 ### Goals
 * Understand and become familiar with technical terminology to better fulfill my current duties.
 * Understand the basics of Python, Tableau, and VS Code
